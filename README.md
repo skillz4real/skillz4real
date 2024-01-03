@@ -1,4 +1,4 @@
-<p style="text-align: center;">Welcome to my page</p>
+<p align="center">Welcome to my page</p>
 
 <p style="text-align: center;">A piece of centered text</p>
 

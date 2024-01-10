@@ -1,4 +1,4 @@
-<h1 align="center"> Welcome to my page </h1>
+<h1 align="center"> If you don't know, now you know </h1>
 
 <p align="center">
   <img src="mascot.gif" alt="Mascot">

@@ -1,4 +1,4 @@
-<h1 align="center"> Some Header </h1>
+<h1 align="center"> WELCOME </h1>
 
 <p align="center">
   <img src="mascot.gif" alt="Mascot">
@@ -21,17 +21,15 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skillz4real&layout=pie&theme=dark" />
 <h2 align="center">
-  Small header
+  whoami
 </h2>
 
-<p>1</p>
-<p>1</p>
-<p>1</p>
-<p>1</p>
-<p>1</p>
-<p>1</p>
-<p>1</p>
-<p>1</p>
+<p>1- A Computer Engineering Student 💻</p>
+<p>2- A Cybersecurity Freelancer 👾 </p>
+<p>3- A Linux enthusiast (I use Arch btw) 🐧</p>
+<p>4- A gym rat 🏋🏿</p>
+<p>5- A big fan of combat sports, soccer, and basketball 🥊 </p>
+<h3 align="center">Don't hesitate to contribute to anything you might find interesting or just holla at me !!!</h3>
 &nbsp;&nbsp;  
 
 ---

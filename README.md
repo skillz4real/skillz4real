@@ -19,19 +19,6 @@
 
 </div>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skillz4real&layout=pie&theme=dark" />
-<h2 align="center">
-  whoami
-</h2>
-
-<p>1- A Computer Engineering Student 💻</p>
-<p>2- A Cybersecurity Freelancer 👾 </p>
-<p>3- A Linux enthusiast (I use Arch btw) 🐧</p>
-<p>4- A gym rat 🏋🏿</p>
-<p>5- A big fan of combat sports, soccer, and basketball 🥊 </p>
-<h3 align="center">Don't hesitate to contribute to anything you might find interesting or just holla at me !!!</h3>
-&nbsp;&nbsp;  
-
 ---
 
 <img align="left" src="SecurityPlus Logo Certified CE.png" alt="Comptia Security+ Certification" height="250px">

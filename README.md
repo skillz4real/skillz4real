@@ -20,6 +20,6 @@
 </div>
 
 ---
-
-<img align="left" src="SecurityPlus Logo Certified CE.png" alt="Comptia Security+ Certification" height="250px">
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=skillz4real&show_icons=true&theme=dark" alt="" height="200px">
+<div align="center">
+<img align="center" src="SecurityPlus Logo Certified CE.png" alt="Comptia Security+ Certification" height="250px">
+</div>
